@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: AGPL-3.0
 pragma solidity >=0.8.0 <0.9.0;
 
-import "forge-std/Test.sol";
+import "../forge-std/src/Test.sol";
 
 // TODO: use interface provided by forge-std v1.0.0 or later
 // import {IERC20} from "forge-std/interfaces/IERC20.sol";
